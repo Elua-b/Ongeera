@@ -37,7 +37,7 @@ function Footer() {
           <span style={{ marginTop: "20px" }}>
             <img className="copy" src="/copyright.png" alt="" />
           </span>
-          Ongeera All rights reserved Copyrights 2020
+          Ongeera All rights reserved Copyrights 2022
         </div>
       </div>
       <div className="f-right">
